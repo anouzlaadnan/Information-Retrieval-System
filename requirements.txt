@@ -1,0 +1,7 @@
+python-dotenv # To read the credential in .env
+google-generativeai # To use Google PLAM model
+langchain
+PyPDF2 # Reading PDF data
+faiss-cpu #VectorDB
+streamlit # To create Web App
+-e . #To setup.py
